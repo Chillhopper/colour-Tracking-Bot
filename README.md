@@ -18,16 +18,20 @@ This project utilizes the STM32 microcontroller, Spin Parallax Board, and Pixica
 - Color tracking using Pixicam2.
 - STM32 microcontroller for control and decision-making.
 - Spin Parallax Board for interfacing with sensors and actuators.
-- [Add any other features your project includes]
+
+
+![Screenshot 2023-12-22 091539](https://github.com/Chillhopper/colour-Tracking-Bot/assets/68851163/7cf973e9-15ad-402c-9bf2-93e9a9939405)
 
 ## Dependencies
 
 Ensure that the following dependencies are installed:
 
+
 - [Pixicam2 library](https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:porting_guide)
 - [STM32CubeIDE](https://www.st.com/en/microcontrollers-microprocessors/stm32f103re.html)
 - [Spin Parallax Board SDK](https://www.parallax.com/propeller-2/documentation/)
 - [Any additional libraries or tools]
+
 
 ## Setup
 
