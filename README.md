@@ -24,9 +24,9 @@ This project utilizes the STM32 microcontroller, Spin Parallax Board, and Pixica
 
 Ensure that the following dependencies are installed:
 
-- [Pixicam2 library](link-to-pixicam2-library)
-- [STM32CubeIDE](link-to-stm32cubeide)
-- [Spin Parallax Board SDK](link-to-parallax-sdk)
+- [Pixicam2 library](https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:porting_guide)
+- [STM32CubeIDE](https://www.st.com/en/microcontrollers-microprocessors/stm32f103re.html)
+- [Spin Parallax Board SDK](https://www.parallax.com/propeller-2/documentation/)
 - [Any additional libraries or tools]
 
 ## Setup
