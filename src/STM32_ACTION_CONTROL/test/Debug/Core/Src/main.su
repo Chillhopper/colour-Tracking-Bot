@@ -1,0 +1,14 @@
+../Core/Src/main.c:109:6:stopp	4	static
+../Core/Src/main.c:113:9:calculate_xor_checksum	24	static
+../Core/Src/main.c:124:6:move	40	static
+../Core/Src/main.c:159:6:getVersion	8	static
+../Core/Src/main.c:165:6:getResolution	72	static
+../Core/Src/main.c:190:6:setCameraBrightness	128	static
+../Core/Src/main.c:234:6:getBlocks	16	static
+../Core/Src/main.c:250:5:main	64	static
+../Core/Src/main.c:599:6:SystemClock_Config	72	static
+../Core/Src/main.c:638:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:671:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:704:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:737:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:801:6:Error_Handler	4	static,ignoring_inline_asm
